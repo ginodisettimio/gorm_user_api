@@ -26,7 +26,7 @@ API REST para gestión de usuarios implementada en Go utilizando **GORM** y **SQ
 1. **Clonar el repositorio:**
    ```bash
    git clone https://github.com/ginodisettimio/gorm_user_api
-   cd GOrm
+   cd gorm_user_api
 
 2. **Instalar dependencias:**
     ```bash
@@ -39,4 +39,3 @@ API REST para gestión de usuarios implementada en Go utilizando **GORM** y **SQ
 4. **Compilar (opcional)**
     ```
     go build .
-        
