@@ -1,6 +1,6 @@
 # GOrm User API
 
-API REST para gestión de usuarios implementada en Go utilizando **GORM** y **SQLite**, bajo el patrón de diseño Repository.
+API REST (CRUD) para gestión de usuarios implementada en Go utilizando **GORM** y **SQLite**, bajo el patrón de diseño Repository.
 
 ---
 
